@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm FHR</h1>
 
-<!--
-**FHRha/FHRha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Learning programming, web development and AI.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Interested in neural networks, web technologies and building small projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Currently learning programming and web development
+- Interested in AI, neural networks and modern tools
+- Practicing through small projects and experiments
+- Exploring different technologies and development workflows
+
+---
+
+## What I'm Learning
+
+- HTML, CSS, JavaScript
+- React
+- Node.js
+- Git and GitHub
+- AI tools and neural networks
+
+---
+
+## What I'm Working On
+
+- Small pet projects for practice
+- Learning how web applications are built
+- Exploring AI tools and practical uses of neural networks
+
+---
+
+## Contacts
+
+- GitHub: [@FHRha](https://github.com/FHRha)
